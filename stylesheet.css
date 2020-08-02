@@ -93,7 +93,11 @@ li p {
 
 .img {
   text-align: center;
-} 
+}
+
+.img h1 {
+  margin: 100px auto;
+}
 
 .img img {
   width: calc(100% - 40px);
