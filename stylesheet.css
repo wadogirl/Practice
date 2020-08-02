@@ -96,12 +96,12 @@ li p {
 }
 
 .img h1 {
-  margin: 100px auto;
+  margin: 100px auto 30px;
 }
 
 .img img {
-  width: calc(100% - 60px);
-  padding: 30px 30px;
+  width: calc(100% - 40px);
+  padding: 30px 20px;
 }
 
 .call-to-action {
@@ -170,17 +170,16 @@ footer {
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    
   }
 
+  
+  .img h1 {
+    margin: 100px auto;
+  }
 
-
-
-
-
-
-
-
-
+  .img img {
+   width: calc(100% - 60px);
+   padding: 30px 30px;
+  }
 
 }
