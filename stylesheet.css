@@ -100,7 +100,7 @@ li p {
 }
 
 .img img {
-  width: calc(100% - 60px);
+  width: calc(100% - 80px);
   padding: 30px 20px;
 }
 
